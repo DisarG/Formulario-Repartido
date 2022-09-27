@@ -1,3 +1,2 @@
 # Repartido Semanal
-### Maximiliano Correa - Federico Del Rio )
-
+### Maximiliano Correa - Federico Del Rio
