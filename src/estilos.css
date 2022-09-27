@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: #65609b;	
+	font-family: 'Roboto', sans-serif;
+  }
+
+.title-form{
+	position: absolute;
+	top: 135px;
+	left: 40%;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: #242424;
+	text-shadow: 4px 3px 0 #7A7A7A, 2px 2px 0px rgba(206,89,55,0);
+}
+
+h1{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.imagen-div{
+    border-radius: 150px;
+    display: flex;
+    padding: 15px;
+}
+
+#ciudad {
+	width: 100%;
+	height: 45px;
+	background: #e1ebed;
+	border: none;
+	border-radius: 13px;
+}
+
+.content-exito {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 350px;
+    margin: auto;
+}
+
+.content-exito, .imagen-div, .campos-div{
+	padding-top: 10px;
+}
+
+
+
+
+#profesion {
+	width: 100%;
+	height: 45px;
+	background: #e1ebed;
+	border-radius: 13px;
+	border: none;
+}
+
+main {
+	max-width: 800px;
+	width: 90%;
+	margin: auto;
+	padding: 40px;
+
+}
